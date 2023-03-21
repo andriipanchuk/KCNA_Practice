@@ -18,3 +18,17 @@ Answer: 2
 </details>
 
 <details close>
+
+  <summary> :small_blue_diamond: 2. Which of the following is a Kubernetes object that is responsible for running one or more containers in a pod?</summary>
+<br>
+
+A. Service
+B. Deployment
+C. Node
+D. Pod
+  
+Answer: D  
+
+</details>
+
+<details close>
