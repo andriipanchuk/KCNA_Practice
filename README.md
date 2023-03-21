@@ -12,7 +12,7 @@ Note: Practice questions to help you prepare for the KCNA exam
 2. A way to expose a set of pods as a network service
 3. A Kubernetes add-on that provides log aggregation and search
 4. A tool for automatically scaling pods based on resource usage
-<summary> :small_blue_diamond: Explaining:</summary>
+<summary> :small_blue_diamond: Explaining: A Kubernetes Service is an abstraction layer that provides a stable IP address and DNS name for accessing a set of pods in a Kubernetes cluster. Services are used to expose pods to the network and allow other components, both internal and external to the cluster, to communicate with the pods.</summary>
 Answer: 2
 
 </details>
