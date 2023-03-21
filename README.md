@@ -12,7 +12,7 @@ Note: Practice questions to help you prepare for the KCNA exam
 2. A way to expose a set of pods as a network service
 3. A Kubernetes add-on that provides log aggregation and search
 4. A tool for automatically scaling pods based on resource usage
-
+<summary> :small_blue_diamond: 1. What is a Kubernetes Service?</summary>
 Answer: 2
 
 </details>
