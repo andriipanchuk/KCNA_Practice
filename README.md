@@ -16,6 +16,7 @@ Note: Practice questions to help you prepare for the KCNA exam
 Answer: 2
   
 <summary> 🔽Explaining: A Kubernetes Service is an abstraction layer that provides a stable IP address and DNS name for accessing a set of pods in a Kubernetes cluster. Services are used to expose pods to the network and allow other components, both internal and external to the cluster, to communicate with the pods.</summary>
+<br>  
 
 
 </details>
